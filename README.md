@@ -1,4 +1,4 @@
-- 👋 Hi, I’m R/mi
+- 👋 Hi, I’m Rémi
 - 👀 I’m interested in web development, cloud architecture and DevOps
 - 🌱 I’m currently learning AKS
 - 💞️ I’m looking to collaborate on Azure
