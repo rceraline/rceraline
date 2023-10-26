@@ -1,8 +1,5 @@
-- 👋 Hi, I’m Rémi
-- 👀 I’m interested in web development, cloud architecture and DevOps
-- 🌱 I’m currently learning AKS
-- 💞️ I’m looking to collaborate on Azure
-- 📫 How to reach me linkedin.com/in/remiceraline
+- 👋 I'm Rémi, an Azure Solutions Architect and DevOps enthusiast who transitioned from a developer to a cloud solutions architect.
+- 📫 How to reach me linkedin.com/in/remiceraline or www.remi-solutions.com
 
 <!---
 rceraline/rceraline is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
