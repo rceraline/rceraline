@@ -1,5 +1,5 @@
 - 👋 I'm Rémi, an Azure Solutions Architect and DevOps enthusiast who transitioned from a developer to a cloud solutions architect.
-- 📫 How to reach me linkedin.com/in/remiceraline or https://www.remiceraline.com
+- 📫 How to reach me: [https://linkedin.com/in/remiceraline](Linkedin) or [https://www.remiceraline.com](my website).
 
 <!---
 rceraline/rceraline is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
